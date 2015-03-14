@@ -1,0 +1,1 @@
+This project consists of the Enrollment and Grading System for Senator Renato Compañero Cayetano Memorial Science and Technology High School
